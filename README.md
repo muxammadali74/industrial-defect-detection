@@ -2,7 +2,7 @@
 
 Unsupervised anomaly detection system for industrial quality control using **PatchCore** and the **MVTec AD** dataset. Detects surface defects on industrial products without requiring labeled defect data during training.
 
-![Demo](ezgif-4016397b731d61a5.gif))
+![Demo](demo.gif))
 
 ---
 
